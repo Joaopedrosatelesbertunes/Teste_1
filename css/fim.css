@@ -1,0 +1,26 @@
+.agradecimentos{
+    color: white;
+    font-size: 600%;
+    text-align: center;
+    padding-top: 15%;
+}
+.imagem2{
+    width: 13%;
+    border-radius: 50%;
+    margin-top: -30%;
+}
+@media screen and (max-width: 720px){
+.agradecimentos{
+    font-size: 470%;
+    padding-top: 20%;
+}
+.imagem2{
+    width: 15%;
+    margin-top: -45%;
+}
+}
+@media screen and (max-width: 600px){
+.imagem2{
+    margin-top: -70%;
+}
+}
